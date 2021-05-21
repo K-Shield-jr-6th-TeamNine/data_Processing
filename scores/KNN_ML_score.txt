@@ -1,0 +1,5 @@
+==KNN.csv score==
+accuracy_score = 	0.07111431085513159
+recall_score = 		0.01694628029147602
+precision_score = 	0.9523809523809523
+f1_score = 		0.033300033300033303
