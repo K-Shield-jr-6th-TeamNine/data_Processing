@@ -23,12 +23,15 @@ for row in (guess_csv.index):   # row length
         guess.append(1)
 del guess[0]                    # delete first row ("Label")
 
-print("accuracy_score = ",end='')
-print(accuracy_score(label, guess))
-print("recall_score = ",end='')
-print(recall_score(label, guess))
-print("precision_score = ",end='')
-print(precision_score(label, guess))
-print("f1_score = ",end='')
-print(f1_score(label, guess))
+scorefile = open("./KNN_ML_score.txt", 'w')
+scorefile.write("==KNN.csv score==\n")
+scorefile.write("accuracy_score = \t")
+scorefile.write(str(accuracy_score(label, guess)))
+scorefile.write("\nrecall_score = \t\t")
+scorefile.write(str(recall_score(label, guess)))
+scorefile.write("\nprecision_score = \t")
+scorefile.write(str(precision_score(label, guess)))
+scorefile.write("\nf1_score = \t\t")
+scorefile.write(str(f1_score(label, guess)))
 # print accuracy_score / recall_score / precision_score / f1_score
+# filename is ./KNN_ML_score.txt
