@@ -23,8 +23,12 @@ for row in (guess_csv.index):   # row length
         guess.append(1)
 del guess[0]                    # delete first row ("Label")
 
+print("accuracy_score = ",end='')
 print(accuracy_score(label, guess))
+print("recall_score = ",end='')
 print(recall_score(label, guess))
+print("precision_score = ",end='')
 print(precision_score(label, guess))
+print("f1_score = ",end='')
 print(f1_score(label, guess))
 # print accuracy_score / recall_score / precision_score / f1_score
