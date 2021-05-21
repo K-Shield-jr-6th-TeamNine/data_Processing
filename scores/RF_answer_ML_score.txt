@@ -1,0 +1,5 @@
+==RF_answer.csv score==
+accuracy_score = 	0.07743380529557635
+recall_score = 		0.02558888324012879
+precision_score = 	0.9014925373134328
+f1_score = 		0.049765180851940344
