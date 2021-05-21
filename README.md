@@ -8,8 +8,7 @@ lresult.csv file > pcapcsv to CIC.py
 
 # ML score
 
-answer csv file => answer_Path\n
-guess csv file  =>  guess_Path
+answer csv file => answer_Path // guess csv file  =>  guess_Path
 
 it prints 4 type score
  - accuracy_score
