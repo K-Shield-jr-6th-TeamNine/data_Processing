@@ -1,43 +1,43 @@
 ==KNN 1+1 score==
-accuracy_score = 	0.49149691884974644
-recall_score = 		0.9768638034890088
-precision_score = 	0.49027126596235454
-f1_score = 		0.6528754762687975
+accuracy_score = 	0.5520700032231608
+recall_score = 		0.0990899371561188
+precision_score = 	0.87527352297593
+f1_score = 		0.17802555603705741
 
-  true_positives = 149847
-  true_negatives = 4167
-  false_positives = 155794
-  false_negatives = 3549
+	true_positives =  15200
+	true_negatives =  157795
+	false_positives = 2166
+	false_negatives = 138196
 
 ==KNN 1+2 score==
-accuracy_score = 	0.4125204534673624
-recall_score = 		0.9789171746145572
-precision_score = 	0.4087415004872419
-f1_score = 		0.576689472683666
+accuracy_score = 	0.5674391459378214
+recall_score = 		0.01741908145637081
+precision_score = 	0.1873247335950645
+f1_score = 		0.03187422088882792
 
-  true_positives = 150161
-  true_negatives = 4634
-  false_positives = 217213
-  false_negatives = 3234
+	true_positives =  2672
+	true_negatives =  210255
+	false_positives = 11592
+	false_negatives = 150723
 
 ==KNN 2+1 score==
-accuracy_score = 	0.33879316703619977
-recall_score = 		0.9834609993806839
-precision_score = 	0.3329471042752246
-f1_score = 		0.4974756551589958
+accuracy_score = 	0.6694681760395017
+recall_score = 		0.0669382965546465
+precision_score = 	0.5266451248910089
+f1_score = 		0.11877935358489693
 
-  true_positives = 150858
-  true_negatives = 5306
-  false_positives = 302241
-  false_negatives = 2537
-
+	true_positives =  10268
+	true_negatives =  298318
+	false_positives = 9229
+	false_negatives = 143127
+  
 ==KNN 2+2 score==
-accuracy_score = 	0.298924883374424
-recall_score = 		0.9845953257928877
-precision_score = 	0.2931464839579977
-f1_score = 		0.4517824425482908
+accuracy_score = 	0.6562361928515551
+recall_score = 		0.03280419831154861
+precision_score = 	0.13824935436012967
+f1_score = 		0.053026191693055065
 
-  true_positives = 151032
-  true_negatives = 5254
-  false_positives = 364178
-  false_negatives = 2363
+	true_positives =  5032
+	true_negatives =  338066
+	false_positives = 31366
+	false_negatives = 148363
