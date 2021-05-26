@@ -4,10 +4,10 @@ recall_score = 		0.9999543664763096
 precision_score = 	0.4895133237593745
 f1_score = 		0.6572696927236656
 
-  true_positives = 	  153389
-  true_negatives = 	  0
-  false_positives = 	159961
-  false_negatives = 	7
+  true_positives = 	153389
+  true_negatives = 	0
+  false_positives = 159961
+  false_negatives = 7
 
 ==CNN 1+2 score==
 accuracy_score = 	0.40876287835583436
@@ -15,10 +15,10 @@ recall_score = 		0.9999348088268848
 precision_score = 	0.40877377195974757
 f1_score = 		0.5803146642150325
 
-  true_positives = 	  153385
-  true_negatives = 	  0
-  false_positives = 	221847
-  false_negatives = 	10
+  true_positives = 	153385
+  true_negatives = 	0
+  false_positives = 221847
+  false_negatives = 10
 
 
 ==CNN 2+1 score==
@@ -27,10 +27,10 @@ recall_score = 		0.9999869617653769
 precision_score = 	0.3327830086345294
 f1_score = 		0.4993790033125249
 
-  true_positives = 		153393
-  true_negatives = 		0
-  false_positives = 	307547
-  false_negatives = 	2
+  true_positives = 153393
+  true_negatives = 0
+  false_positives = 307547
+  false_negatives = 2
 
 ==CNN 2+2 score==
 accuracy_score = 	0.293387678907172
@@ -38,7 +38,7 @@ recall_score = 		0.999973923530754
 precision_score = 	0.29338992354965254
 f1_score = 		0.4536732237237104
 
-  true_positives = 		153391
-  true_negatives = 		0
-  false_positives = 	369432
-  false_negatives = 	4
+  true_positives = 153391
+  true_negatives = 0
+  false_positives = 369432
+  false_negatives = 4
