@@ -1,0 +1,10 @@
+==3NN_1+1_ML_score.csv score==
+accuracy_score = 	0.4895247273876122
+recall_score = 		1.0
+precision_score = 	0.4895247273876122
+f1_score = 		0.6572898299528873
+
+	true_positives =  153396
+	true_negatives =  0
+	false_positives = 159961
+	false_negatives = 0
