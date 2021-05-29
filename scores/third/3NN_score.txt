@@ -1,0 +1,21 @@
+==3NN_third_ML_score.csv score==
+accuracy_score = 	0.7537226450999048
+recall_score = 		1.0
+precision_score = 	0.7537226450999048
+f1_score = 		0.8595688117569666
+
+	true_positives =  126746
+	true_negatives =  0
+	false_positives = 41414
+	false_negatives = 0
+  
+==3NN_third_big_ML_score.csv score==
+accuracy_score = 	0.37968821146979176
+recall_score = 		1.0
+precision_score = 	0.37968821146979176
+f1_score = 		0.5503971235143151
+
+	true_positives =  126746
+	true_negatives =  0
+	false_positives = 207070
+	false_negatives = 0
