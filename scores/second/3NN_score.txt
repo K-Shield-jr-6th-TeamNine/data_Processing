@@ -1,43 +1,43 @@
 ==3NN_1+1_ML_score.csv score==
-accuracy_score = 	0.4895247273876122
-recall_score = 		1.0
-precision_score = 	0.4895247273876122
-f1_score = 		0.6572898299528873
+accuracy_score = 	0.48978321850158124
+recall_score = 		0.9982398498005163
+precision_score = 	0.48963342883454414
+f1_score = 		0.6570070280521397
 
-	true_positives =  153396
-	true_negatives =  0
-	false_positives = 159961
-	false_negatives = 0
-
+	true_positives =  153126
+	true_negatives =  351
+	false_positives = 159610
+	false_negatives = 270
+	
 ==3NN_1+2_ML_score.csv score==
-accuracy_score = 	0.40878952782471045
-recall_score = 		1.0
-precision_score = 	0.40878952782471045
-f1_score = 		0.5803415197952471
+accuracy_score = 	0.4124751493702731
+recall_score = 		0.9805665112943708
+precision_score = 	0.40884812868819265
+f1_score = 		0.5770815588959739
 
-	true_positives =  153395
-	true_negatives =  0
-	false_positives = 221847
-	false_negatives = 0
+	true_positives =  150414
+	true_negatives =  4364
+	false_positives = 217483
+	false_negatives = 2981
 	
 ==3NN_2+1_ML_score.csv score==
-accuracy_score = 	0.332785903649483
-recall_score = 		1.0
-precision_score = 	0.332785903649483
-f1_score = 		0.49938388864743616
+accuracy_score = 	0.33880835332861836
+recall_score = 		0.9841911405195737
+precision_score = 	0.3330347925067723
+f1_score = 		0.4976669287354275
 
-	true_positives =  153395
-	true_negatives =  0
-	false_positives = 307547
-	false_negatives = 0
+	true_positives =  150970
+	true_negatives =  5201
+	false_positives = 302346
+	false_negatives = 2425
 	
 ==3NN_2+2_ML_score.csv score==
-accuracy_score = 	0.2933953296214618
-recall_score = 		1.0
-precision_score = 	0.2933953296214618
-f1_score = 		0.45368237058244193
+accuracy_score = 	0.29920604712457466
+recall_score = 		0.9855080022164999
+precision_score = 	0.29334249228183945
+f1_score = 		0.45211129022128244
 
-	true_positives =  153395
-	true_negatives =  0
-	false_positives = 369432
-	false_negatives = 0
+	true_positives =  151172
+	true_negatives =  5261
+	false_positives = 364171
+	false_negatives = 2223
