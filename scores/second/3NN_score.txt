@@ -8,3 +8,36 @@ f1_score = 		0.6572898299528873
 	true_negatives =  0
 	false_positives = 159961
 	false_negatives = 0
+
+==3NN_1+2_ML_score.csv score==
+accuracy_score = 	0.40878952782471045
+recall_score = 		1.0
+precision_score = 	0.40878952782471045
+f1_score = 		0.5803415197952471
+
+	true_positives =  153395
+	true_negatives =  0
+	false_positives = 221847
+	false_negatives = 0
+	
+==3NN_2+1_ML_score.csv score==
+accuracy_score = 	0.332785903649483
+recall_score = 		1.0
+precision_score = 	0.332785903649483
+f1_score = 		0.49938388864743616
+
+	true_positives =  153395
+	true_negatives =  0
+	false_positives = 307547
+	false_negatives = 0
+	
+==3NN_2+2_ML_score.csv score==
+accuracy_score = 	0.2933953296214618
+recall_score = 		1.0
+precision_score = 	0.2933953296214618
+f1_score = 		0.45368237058244193
+
+	true_positives =  153395
+	true_negatives =  0
+	false_positives = 369432
+	false_negatives = 0
