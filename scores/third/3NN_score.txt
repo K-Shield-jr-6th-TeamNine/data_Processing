@@ -1,21 +1,21 @@
 ==3NN_third_ML_score.csv score==
-accuracy_score = 	0.7537226450999048
-recall_score = 		1.0
-precision_score = 	0.7537226450999048
-f1_score = 		0.8595688117569666
+accuracy_score = 	0.7279257849666984
+recall_score = 		0.9512252852161015
+precision_score = 	0.7528944508973735
+f1_score = 		0.8405186837702175
 
-	true_positives =  126746
-	true_negatives =  0
-	false_positives = 41414
-	false_negatives = 0
+	true_positives =  120564
+	true_negatives =  1844
+	false_positives = 39570
+	false_negatives = 6182
   
 ==3NN_third_big_ML_score.csv score==
-accuracy_score = 	0.37968821146979176
-recall_score = 		1.0
-precision_score = 	0.37968821146979176
-f1_score = 		0.5503971235143151
+accuracy_score = 	0.3826239605051885
+recall_score = 		0.9751629242737443
+precision_score = 	0.37850799289520426
+f1_score = 		0.545342234262695
 
-	true_positives =  126746
-	true_negatives =  0
-	false_positives = 207070
-	false_negatives = 0
+	true_positives =  123598
+	true_negatives =  4128
+	false_positives = 202942
+	false_negatives = 3148
